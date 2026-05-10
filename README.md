@@ -1,2 +1,2 @@
 # glass
-My personal automation engine
+My personal HTTP pentesting automation engine
