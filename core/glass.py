@@ -1,7 +1,7 @@
 import copy
 import logging
-from utils.req_parser.parser import RawRequestParser, RawRequest
-from utils.req_repeater.repeater import Repeater, Flow, Header
+from req_parser.parser import RawRequestParser, RawRequest
+from req_repeater.repeater import Repeater, Flow, Header
 import time
 
 
